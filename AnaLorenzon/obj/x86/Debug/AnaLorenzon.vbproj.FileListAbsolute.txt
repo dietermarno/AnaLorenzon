@@ -1,0 +1,36 @@
+C:\Users\dieter\AppData\Local\Temporary Projects\AnaLorenzon\bin\Debug\AnaLorenzon.exe
+C:\Users\dieter\AppData\Local\Temporary Projects\AnaLorenzon\bin\Debug\AnaLorenzon.pdb
+C:\Users\dieter\AppData\Local\Temporary Projects\AnaLorenzon\bin\Debug\AnaLorenzon.xml
+C:\Users\dieter\AppData\Local\Temporary Projects\AnaLorenzon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dieter\AppData\Local\Temporary Projects\AnaLorenzon\obj\x86\Debug\AnaLorenzon.frmDados.resources
+C:\Users\dieter\AppData\Local\Temporary Projects\AnaLorenzon\obj\x86\Debug\AnaLorenzon.Resources.resources
+C:\Users\dieter\AppData\Local\Temporary Projects\AnaLorenzon\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dieter\AppData\Local\Temporary Projects\AnaLorenzon\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dieter\AppData\Local\Temporary Projects\AnaLorenzon\obj\x86\Debug\AnaLorenzon.exe
+C:\Users\dieter\AppData\Local\Temporary Projects\AnaLorenzon\obj\x86\Debug\AnaLorenzon.xml
+C:\Users\dieter\AppData\Local\Temporary Projects\AnaLorenzon\obj\x86\Debug\AnaLorenzon.pdb
+C:\Users\dieter\AppData\Local\Temporary Projects\AnaLorenzon\obj\x86\Debug\AnaLorenzon.frmResultado.resources
+C:\Users\dieter\documents\visual studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.exe
+C:\Users\dieter\documents\visual studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.xml
+C:\Users\dieter\documents\visual studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.pdb
+C:\Users\dieter\documents\visual studio 2010\Projects\AnaLorenzon\AnaLorenzon\bin\Debug\AnaLorenzon.exe
+C:\Users\dieter\documents\visual studio 2010\Projects\AnaLorenzon\AnaLorenzon\bin\Debug\AnaLorenzon.pdb
+C:\Users\dieter\documents\visual studio 2010\Projects\AnaLorenzon\AnaLorenzon\bin\Debug\AnaLorenzon.xml
+C:\Users\dieter\documents\visual studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.frmDados.resources
+C:\Users\dieter\documents\visual studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.Resources.resources
+C:\Users\dieter\documents\visual studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.frmResultado.resources
+C:\Users\dieter\documents\visual studio 2010\Projects\AnaLorenzon\AnaLorenzon\bin\Debug\Graficos\ShapeFormMachine-02.jpg
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.vbproj.GenerateResource.Cache
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\bin\Debug\Graficos\ShapeFormMachine-02.jpg
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\bin\Debug\AnaLorenzon.exe
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\bin\Debug\AnaLorenzon.pdb
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\bin\Debug\AnaLorenzon.xml
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.vbproj.AssemblyReference.cache
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.frmDados.resources
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.Resources.resources
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.frmResultado.resources
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.vbproj.GenerateResource.cache
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.vbproj.CoreCompileInputs.cache
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.exe
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.xml
+E:\Projects .NET\AnaLorenzon\AnaLorenzon\obj\x86\Debug\AnaLorenzon.pdb

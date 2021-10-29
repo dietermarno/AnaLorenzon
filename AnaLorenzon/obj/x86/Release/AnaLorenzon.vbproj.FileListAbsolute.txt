@@ -1,0 +1,13 @@
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\bin\Release\Graficos\ShapeFormMachine-02.jpg
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\bin\Release\AnaLorenzon.exe
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\bin\Release\AnaLorenzon.pdb
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\bin\Release\AnaLorenzon.xml
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Release\AnaLorenzon.frmDados.resources
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Release\AnaLorenzon.Resources.resources
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Release\AnaLorenzon.frmResultado.resources
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Release\AnaLorenzon.exe
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Release\AnaLorenzon.xml
+C:\Users\dieter\Documents\Visual Studio 2010\Projects\AnaLorenzon\AnaLorenzon\obj\x86\Release\AnaLorenzon.pdb
